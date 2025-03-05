@@ -21,5 +21,5 @@ I’m [Arpad](https://github.com/kengreklammen), an aspiring developer!
 - Add more content to this repository.
 - Learn how to push changes using Git.
 
-## [This] (https://github.com/kengreklammen/Altera-DE-1-projects) is one of my other repos.
+[This](https://github.com/kengreklammen/Altera-DE-1-projects) is one of my other repos.
 (![Altera FPGA](https://github.com/kengreklammen/Altera-DE-1-projects/blob/main/Altera-DE1-FPGA-Development-and-Education-Board.png))
