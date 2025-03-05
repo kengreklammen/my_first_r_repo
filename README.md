@@ -15,7 +15,7 @@ I am learning how to use GitHub and exploring how repositories work.
 - Git & GitHub for version control.
 
 ## 👨‍💻 About Me:
-I’m [Your Name](https://github.com/your-github-username), an aspiring developer!
+I’m [Arpad](https://github.com/kengreklammen), an aspiring developer!
 
 ## 🎯 Next Steps:
 - Add more content to this repository.
