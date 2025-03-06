@@ -17,6 +17,7 @@ I am learning how to use GitHub and exploring how repositories work.
 ## 👨‍💻 About Me:
 I’m [Arpad](https://github.com/kengreklammen), an aspiring developer!
 
+
 ## 🎯 Next Steps:
 - Add more content to this repository.
 - Learn how to push changes using Git.
